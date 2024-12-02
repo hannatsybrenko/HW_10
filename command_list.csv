@@ -126,3 +126,14 @@
   126  cd Git
   127  cd HW_10
   128  ls
+  129  history 0 > command_list.csv
+  130  ls
+  131  git add .
+  132  git commit -m "Command list created"
+  133  git push
+  134  git push
+  135  git push
+  136  git push
+  137  git push
+  138  git mv main.test.txt main_test.txt
+  139  git commit -m "Rename file main.test.txt"
