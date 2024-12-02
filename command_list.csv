@@ -1,0 +1,128 @@
+    1  git -version
+    2  git --version
+    3  git --version
+    4  git -version
+    5  git  --version
+    6  cd/Users/annacybrenko/Desctop/Git
+    7  cd/Users/annacybrenko/Documents/Git
+    8  cd/Users/annacebrenko/Documents
+    9  cd/Users/annatsybrenko/Git
+   10  cd annacebrenko
+   11  cd Desctop
+   12  cd Desktop
+   13  sd Desktop
+   14  cd Desktop
+   15  history -c && rm ~/.bash_history
+   16  history -c && rm ~/.bash_history
+   17  history && rm ~/.bash_history
+   18  Git
+   19  ls
+   20  Git
+   21  cd Git
+   22  clear
+   23  gitconfig
+   24  clear
+   25  git config
+   26  clear
+   27  $ git config --global user.name "hannatsybrenko"
+   28   git config --global user.name "hannatsybrenko"
+   29  clear
+   30  git config --global user.name "Hanna Tsybrenko"
+   31  uninstall /usr/local/bin/git
+   32   /usr/local/bin/git
+   33  git --version
+   34  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   35  git --version
+   36  clear
+   37  git config --global user.name "Hanna Tsybrenko"
+   38  git config --global user.email nettyannetty@gmail.com
+   39  git clone https://github.com/hannatsybrenko/HW_10.git
+   40  HW_10
+   41  HW_10
+   42  ls
+   43  HW_10
+   44  git status
+   45  cd HW_10
+   46  git status
+   47  touch text_ignore.txt
+   48  git status
+   49  git add
+   50  ls -a
+   51  nano .gitignore
+   52  git status
+   53  ls
+   54  git add .
+   55  git commit -m
+   56  git commit
+   57  cd Desktop
+   58  cd Git
+   59  cd HW_10
+   60  ls
+   61  ls -a
+   62  add text_ignore.txt
+   63  git add text_ignore.txt
+   64  git status
+   65  git commit -m "Text ignore created"
+   66  touch main.test.txt
+   67  git add main.test.txt
+   68  git commit -m "Main test created"
+   69  git checkout -b new branch
+   70  git checkout -b new_branch
+   71  git branch
+   72  git checkout -b develop
+   73  git branch
+   74  touch develop_test.txt
+   75  git add develop_test.txt
+   76  git commit -m "Develop test created"
+   77  echo "just a small change" >> develop_test.txt
+   78  git status
+   79  git add .
+   80  git commit -m "Added text to develop_test.txt"
+   81  git checkout main
+   82  git stash save
+   83  git checkout main
+   84  git commit
+   85  git checkout main
+   86  git branch
+   87  new_branch
+   88  git chekout new_branch
+   89  git checkout new_branch
+   90  git merge origin
+   91  git branch
+   92  git checkout new_branch
+   93  git commit -m "New"
+   94  git commit -a
+   95  git branch
+   96  clear
+   97  cd Desktop
+   98  cd Git
+   99  cd HW_10
+  100  git branch
+  101  git chekout main
+  102  git merge develop
+  103  git checkout main
+  104  git branch
+  105  git branch -D new branch
+  106  git branch -D new_branch
+  107  git branch
+  108  git chekout main
+  109  git checkout main
+  110  git commit -m "Deleted new_branch"
+  111  git add .
+  112  git branch
+  113  git checkout main
+  114  git add .DS_Store
+  115  git commit -m "Saved changes in .DS_Store"
+  116  git chekout main
+  117  git checkout main
+  118  git stash
+  119  git chheckout main
+  120  git checkout main
+  121  git merge develop
+  122  git stash
+  123  git merge develop
+  124  git log
+  125  cd Desktop
+  126  cd Git
+  127  cd HW_10
+  128  ls
